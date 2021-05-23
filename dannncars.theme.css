@@ -12,6 +12,7 @@
 /* Import CSS link(s) */
 @import url(https://tomrdh.github.io/discord-addons/xcores/themes/OGGT_Core.css);
 @import url("https://cyb3ry4nd3r3.github.io/dannncars/stylesheet.css");
+@import url("https://cyb3ry4nd3r3.github.io/negcontrast/negfont/stylesheet.css");
 
 :root { /* Theme-Settings */
 /*  Variable Name                   | Variable Value                        | | Default Value(s)                                               | About This Variable (alias: Setting)                                                                                                                                                                           */
@@ -45,10 +46,10 @@
 /*  Font-Setting                                                                                                                                                                                                                                                                                                                                                */
     --channel-name-transform:         capitalize                            ;/* Theme Default: capitalize    - Discord Default: unset          - Decide if you want to use uppercase or lowercase characters in channel names. Values: unset, lowercase, uppercase, capitalize.                                                                                 */
     --category-name-transform:        unset                                 ;/* Theme Default: unset         - Discord Default: uppercase      - Same as channel names but for categories. Same values.                                                                                                                                                         */
-    --font-display: racing !important;
-    --font-primary: racing !important;
-    --font-display: racing !important;
-    --cf: racing !important;
+    --font-display: Atkinson !important;
+    --font-primary: Atkinson !important;
+    --font-display: Atkinson !important;
+    --cf: Atkinson !important;
 /*  Advanced-Background-Settings                                                                                                                                                                                                                                                                                                                                */
     --wintitlebar-background-blur:    none                                  ;/* Default: none                                                  - Background blur for the Windows title bar. Use any unit supported by CSS like px. Put none to remove blur effect and avoid lags.                                                                               */
     --wintitlebar-transparency:       0.7                                   ;/* Default: 0.7                                                   - Transparency for the Windows title bar. Between 0 and 1.                                                                                                                                                       */
