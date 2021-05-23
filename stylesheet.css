@@ -11,11 +11,7 @@
 
 @font-face {
     font-family: 'Atkinson';
-    src: url('Atkinson-Hyperlegible-Italic-102.eot');
-    src: local('Atkinson-Hyperlegible-Italic-102'), local('Atkinson-Hyperlegible-Italic-102'),
-        url('Atkinson-Hyperlegible-Italic-102a.woff2') format('woff2'),
-        url('Atkinson-Hyperlegible-Italic-102.woff') format('woff'),
-        url('Atkinson-Hyperlegible-Italic-102.ttf') format('truetype');
+    src: local('Concbv2'),url('Concbv2.ttf') format('truetype');
     font-weight: 500;
     font-style: italic;
 }
@@ -33,11 +29,7 @@
 
 @font-face {
     font-family: 'Atkinson';
-    src: url('Atkinson-Hyperlegible-BoldItalic-102.eot');
-    src: local('Atkinson-Hyperlegible-BoldItalic-102'), local('Atkinson-Hyperlegible-BoldItalic-102'),
-        url('Atkinson-Hyperlegible-BoldItalic-102a.woff2') format('woff2'),
-        url('Atkinson-Hyperlegible-BoldItalic-102.woff') format('woff'),
-        url('Atkinson-Hyperlegible-BoldItalic-102.ttf') format('truetype');
+    src: local('Concbv2'),url('Concbv2.ttf') format('truetype');
     font-weight: bold;
     font-style: italic;
 }
