@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'racing';
-    src: local('Concbv2'),url('Concbv2.ttf.ttf') format('truetype');
+    src: local('Concbv2'),url('Concbv2.ttf') format('truetype');
     font-weight: 500;
     font-style: normal;
 }
